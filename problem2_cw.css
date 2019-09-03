@@ -5,21 +5,19 @@ p{
 .secondParagraph{
     background: lightskyblue;
     text-align: center;
+
 }
 .ummm{
     border: 3px dashed;
     width: 500px;
     height: 100px;
-    padding: 10px;
     text-align: center;
+    align-content: center;
 
 }
 
 .okay{
     background: lightpink;
     padding-bottom: 10px;
-}
-
-#done{
-    text-align: center;
+    padding-top: 10px;
 }
