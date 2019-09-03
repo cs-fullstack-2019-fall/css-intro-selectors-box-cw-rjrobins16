@@ -1,0 +1,25 @@
+p{
+    background: gray;
+    margin-right: 10%;
+}
+.secondParagraph{
+    background: lightskyblue;
+    text-align: center;
+}
+.ummm{
+    border: 3px dashed;
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.okay{
+    background: lightpink;
+    padding-bottom: 10px;
+}
+
+#done{
+    text-align: center;
+}
