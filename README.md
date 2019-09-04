@@ -1,7 +1,8 @@
+1/2 + partial Score : 4
 # CSS Intro to Selectors and Box Model
 
 ### Exercise 1:
-
+#### Partial : border 
 Create a new HTML file called ```problem1_cw.html```, and copy the code below into the ```<body>``` of your HTML file. 
 ```
 <h1>HTML Can be more Fun than Python</h1>
@@ -16,7 +17,7 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 
 
 ### Exercise 2:
-
+#### Correct
 Start with the included HTML file ```problem2_cw.html```. Create an external CSS file called ```problem2_cw.css``` 
 and create selectors to style the HTML as follows:
 
